@@ -17,4 +17,9 @@ public class Hello1
         System.out.println('Hello1-fun3');
     }
 
+	public void dataproMVP4()
+    {
+        System.out.println('Hello1-dataproMVP4');
+    }    
+
 }
