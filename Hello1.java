@@ -32,4 +32,10 @@ public class Hello1
         System.out.println('Hello1-india');
     }
 
+
+	  public void japan()
+    {
+        System.out.println('Hello1-japan');
+    }
+
 }
