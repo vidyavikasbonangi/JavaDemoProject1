@@ -27,4 +27,8 @@ public class Hello1
         System.out.println('Hello1-anits');
     }
 
+	  public void japan()
+    {
+        System.out.println('Hello1-japan');
+    }
 }
