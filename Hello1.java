@@ -22,4 +22,9 @@ public class Hello1
         System.out.println('Hello1-dataproMVP4');
     }    
 
+    public void anits()
+    {
+        System.out.println('Hello1-anits');
+    }
+
 }
