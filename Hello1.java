@@ -26,5 +26,10 @@ public class Hello1
     {
         System.out.println('Hello1-anits');
     }
+	
+	 public void india()
+    {
+        System.out.println('Hello1-india');
+    }
 
 }
